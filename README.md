@@ -102,5 +102,5 @@ El sitio está disponible en:
 - **Azure Docs:** [Static Website Hosting](https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website)
 - **Static Content Hosting:** [Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting)
 
-**Autores:** [Alejandro Torres Soto](https://github.com/juanC773) y [Juan David Calderón Salamanca](https://github.com/juanC773)
+**Autores:** [Alejandro Torres Soto](https://github.com/AlejandroTorres05) y [Juan David Calderón Salamanca](https://github.com/juanC773)
 **Propósito:** Demostración Azure Static Content Hosting Pattern
