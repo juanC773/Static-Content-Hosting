@@ -14,4 +14,18 @@ Habilitamos la opción de Static Web Site y configuramos el índice y la ruta de
 
 ![](./images/staticWebSiteConf.png)
 
-### Creación de archivos estáticos
+### Creación y carga de archivos estáticos
+
+Generamos los archivos estáticos para subirlos al Storage Account
+
+![](./images/staticContent.png)
+
+Ahora hay que subir los archivos estáticos al contenedor `web`
+
+![](./images/loadData.png)
+
+### Captura del funcionamiento
+
+![](./images/loadedData.png)
+
+![](./images/working.png)
